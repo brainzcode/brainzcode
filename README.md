@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component**
 
-- 📫 How to reach me **samuelgodfrey@viewstudios.net**
+- 📫 How to reach me **samuelgodfrey@brainzcode.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
