@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component**
+- 💬 Ask me about **GO, Python, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component**
 
 - 📫 How to reach me **samuelgodfrey@brainzcode.io**
 
