@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an **E-Commerce PWA, Blog Web App**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 Added **GO** to my Language Arsenal
 
 - 💬 Ask me about **GO, Python, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component**
 
