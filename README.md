@@ -5,7 +5,7 @@
 
 - 🌱 Added **GO** to my Language Arsenal
 
-- 💬 Ask me about **GO, Python, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component**
+- 💬 Ask me about **GO, Python, Django, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component**
 
 
 <h3 align="left">Connect with me:</h3>
