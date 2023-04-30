@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Godfrey</h1>
 <h3 align="center">A passionate Full Stack Developer from Abuja, Nigeria</h3>
 
-- 🔭 I’m currently working on an **E-Commerce PWA, Blog Web App**
+- 🔭 I’m currently working on an **A FullStack Blog Web App, Built with NextJS and DRF**
 
 - 🌱 Added **GO** to my Language Arsenal
 
