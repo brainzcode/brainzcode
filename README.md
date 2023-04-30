@@ -6,6 +6,7 @@
 - 🌱 Added **GO** to my Language Arsenal
 
 - 💬 Ask me about **GO, Python, Django, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component, BootStrap, Django Rest Framework, NextJS**
+- Watch a lot of chinese series in my free time, my favorite "Joy Of Life", John Wick is favorite Action movie, Avengers is one movie I watch at least tice a year😁😁.
 
 
 <h3 align="left">Connect with me:</h3>
