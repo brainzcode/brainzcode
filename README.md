@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Godfrey</h1>
 <h3 align="center">A passionate Full Stack Developer from Abuja, Nigeria</h3>
 
-- 🌱 **JAVA**, **PYTHON**, **JAVASCRIPT**, **KOTLIN**, **TYPESCRIPT**, **AWS**, **AZURE**
+- 🌱 **JAVA**, **PYTHON**, **JAVASCRIPT**, **KOTLIN**, **TYPESCRIPT**, **AWS**, **AZURE**, **SWIFT**
 
-- 💬 Ask me about **GO, Python, Django, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component, BootStrap, Django Rest Framework, NextJS**
-- Watch a lot of chinese series in my free time, my favorite "Joy Of Life", John Wick is favorite Action movie, Avengers is one movie I watch at least tice a year😁😁.
+- Watch a lot of chinese series in my free time, my favorite "Joy Of Life", John Wick is favorite Action movie, Avengers is one movie I watch at least twice a year😁😁.
 
 
 <h3 align="left">Connect with me:</h3>
