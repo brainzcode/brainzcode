@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Godfrey</h1>
 <h3 align="center">A passionate Full Stack Developer from Abuja, Nigeria</h3>
 
-- 🔭 I’m currently working on an **A FullStack Blog Web App, Built with NextJS and DRF**
-
-- 🌱 Added **GO** to my Language Arsenal
+- 🌱 **JAVA**, **PYTHON**, **JAVASCRIPT**, **KOTLIN**, **TYPESCRIPT**, **AWS**, **AZURE**
 
 - 💬 Ask me about **GO, Python, Django, React, NodeJS, TypeScript, Swift, SwiftUI, TailwindCSS, Styled Component, BootStrap, Django Rest Framework, NextJS**
 - Watch a lot of chinese series in my free time, my favorite "Joy Of Life", John Wick is favorite Action movie, Avengers is one movie I watch at least tice a year😁😁.
