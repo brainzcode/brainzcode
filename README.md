@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Godfrey</h1>
 <h3 align="center">A passionate Full Stack Developer from Abuja, Nigeria</h3>
 
-- 🌱 **JAVA**, **PYTHON**, **JAVASCRIPT**, **KOTLIN**, **TYPESCRIPT**, **AWS**, **AZURE**, **SWIFT**
+- 🌱 **PYTHON**, **JAVASCRIPT**, **TYPESCRIPT**, **AWS**, **AZURE**, **SWIFT**, **DevOps**
 
 - Watch a lot of chinese series in my free time, my favorite "Joy Of Life", John Wick is favorite Action movie, Avengers is one movie I watch at least twice a year😁😁.
 
