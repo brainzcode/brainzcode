@@ -3,7 +3,7 @@
 
 - 🌱 **PYTHON**, **JAVASCRIPT**, **TYPESCRIPT**, **AWS**, **AZURE**, **SWIFT**, **DevOps**
 
-- Watch a lot of chinese series in my free time, my favorite "Joy Of Life", John Wick is favorite Action movie, Avengers is one movie I watch at least twice a year😁😁.
+- Addicted to writing codes daily.
 
 
 <h3 align="left">Connect with me:</h3>
