@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Godfrey</h1>
-<h3 align="center">A passionate Full Stack Developer from Abuja, Nigeria</h3>
+<h3 align="center">Founder (https://luminousdigitalvisions.com)[Luminous Digital Visions, LLC]</h3>
 
-- 🌱 **PYTHON**, **JAVASCRIPT**, **TYPESCRIPT**, **AWS**, **AZURE**, **SWIFT**, **DevOps**
+- 🌱 **PYTHON**, **GO**, **JAVASCRIPT**, **TYPESCRIPT**, **AWS**, **AZURE**, **SWIFT**, **DevOps**
 
-- Addicted to writing codes daily.
+- Addicted to writing code daily.
 
 
 <h3 align="left">Connect with me:</h3>
