@@ -1,67 +1,51 @@
-<!-- HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&repeat=true&width=800&height=45&lines=I+build+products+that+print+money.;Full-stack+%2B+iOS+architect.+Agency+founder.;Code+daily.+Ship+weekly.+Scale+monthly." alt="Typing SVG" /></a>
-
 # Samuel Godfrey `@brainzcode`
 
-**Founder @ [Luminous Digital Visions](https://luminousdigitalvisions.com)** — a fullstack dev & digital marketing agency turning small businesses into online machines.
+**Founder @ [Luminous Digital Visions](https://luminousdigitalvisions.com)**
 
-I architect full-stack systems, build native iOS apps, ship AI-powered SaaS products, and obsess over premium UI/UX.
-<br/>If it's not Airbnb-level design, it's not done.
+I build the websites, search visibility and ad accounts that local service businesses run on, and I treat all three as one problem instead of three separate jobs. Most of my clients arrive paying for all three and unable to tell which one is failing.
+
+Recent work:
+
+- A solicitors' firm from roughly zero to **3,000 monthly visits**, and from ~40 to **100+ booked calls a month**
+- A laundry service from 10–15 monthly sign-ups to **100+**, now averaging 60+ orders a month
+
+Full-stack Go and TypeScript, native iOS in Swift. The AI tooling below is aimed at the same problem from the other side: finding customers, and knowing which part of the funnel is doing the work.
+
+**Taking on:** agency clients, contract builds, and iOS collaborations.
+
+[![Website](https://img.shields.io/badge/luminousdigitalvisions.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://luminousdigitalvisions.com)
+[![LinkedIn](https://img.shields.io/badge/Samuel_Godfrey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-godfrey-ldv/)
+[![Twitter](https://img.shields.io/badge/@brainzcode-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/brainzcode)
+[![Email](https://img.shields.io/badge/luminousdigitalvisions@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luminousdigitalvisions@gmail.com)
 
 ---
 
 ### `what I'm building`
 
-🔥 **Pace AI** — AI video generation platform with node-based workflows (React Flow + Remotion)
-<br/>
-🔥 **CallSync** — Syncs GoHighLevel calendar data with AI notetakers like Fireflies
-<br/>
-🔥 **SEO Pulse** — Autonomous SEO agent powered by Claude AI + Google Search Console
+**[Pace AI](LINK)** — AI video generation on a node-based workflow editor, so a video is something you compose once and re-run with new inputs rather than re-edit from scratch. React Flow + Remotion.
+
+**[CallSync](LINK)** — Booked calls in GoHighLevel arrive with their notes already attached. Bridges GHL calendar data and AI notetakers like Fireflies, so nobody is matching transcripts to bookings by hand.
+
+**[SEO Pulse](LINK)** — An autonomous SEO agent on Claude + Google Search Console. Reads the search data and acts on what it finds, instead of producing another export for someone to interpret.
+
+**[CarlinAI](LINK)** — In Progress
+
+**[Lumatake](LINK)** — In Progress
+
+**[TextBehind](LINK)** — Completed
 
 ---
 
 ### `tech I ship with`
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,react,nextjs,swift,astro&theme=dark" />
-</a>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,postgres,redis,apple,xcode,figma&theme=dark" />
-</a>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,wordpress,linux,git,vercel,cloudflare,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nextjs,react,swift,python,postgres,redis,tailwind,docker&theme=dark" />
 </a>
 
 ---
 
-### `stats`
+### `how I work`
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brainzcode&theme=github_dark" />
+Ship small, ship often, measure it. If a change to a site can't be traced to a number that moved, it wasn't worth making.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brainzcode&theme=github_dark" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brainzcode&theme=github_dark&utcOffset=1" height="180" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brainzcode&theme=github_dark" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brainzcode&theme=github_dark" height="180" />
-
----
-
-### `connect`
-
-[![Twitter](https://img.shields.io/badge/@brainzcode-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/brainzcode)
-[![Reddit](https://img.shields.io/badge/u/brainzcode_-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/brainzcode_)
-[![Website](https://img.shields.io/badge/luminousdigitalvisions.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://luminousdigitalvisions.com)
-
----
-
-```
-while (alive) {
-    code();
-    ship();
-    repeat();
-}
-```
-
-<img src="https://komarev.com/ghpvc/?username=brainzcode&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+Design is not a finishing step. Premium UI is the difference between a visitor trusting a business and closing the tab, and I build for that from the first commit.
