@@ -2,7 +2,7 @@
 
 **Founder @ [Luminous Digital Visions](https://luminousdigitalvisions.com)**
 
-I build the websites, search visibility and ad accounts that local service businesses run on, and I treat all three as one problem instead of three separate jobs. Most of my clients arrive paying for all three and unable to tell which one is failing.
+I build the websites, mobile/desktop apps, search visibility and ad accounts that local service businesses run on, and I treat all four as one problem instead of four separate jobs. Most of my clients arrive paying for all three and unable to tell which one is failing.
 
 Recent work:
 
