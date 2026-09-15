@@ -16,7 +16,7 @@ Full-stack Go and TypeScript, native iOS in Swift. The AI tooling below is aimed
 [![Website](https://img.shields.io/badge/luminousdigitalvisions.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://luminousdigitalvisions.com)
 [![LinkedIn](https://img.shields.io/badge/Samuel_Godfrey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-godfrey-ldv/)
 [![Twitter](https://img.shields.io/badge/@brainzcode-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/brainzcode)
-[![Email](https://img.shields.io/badge/luminousdigitalvisions@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luminousdigitalvisions@gmail.com)
+[![Email](https://img.shields.io/badge/luminousdigitalvisions@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@luminousdigitalvisions.com)
 
 ---
 
